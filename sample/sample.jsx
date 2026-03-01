@@ -62,7 +62,7 @@ const App = () => {
                 <div className="container nav-content">
                     <a href="#" className="logo">
                         <div className="logo-icon">U</div>
-                        Unparalleled Scholar
+                        InfoCluster-xi
                     </a>
 
                     <div className="nav-links">
@@ -129,7 +129,7 @@ const App = () => {
                 <div className="container">
                     <div className="section-header">
                         <h2 className="section-title">Our Mission</h2>
-                        <h3 className="section-headline">Why Unparalleled Scholar?</h3>
+                        <h3 className="section-headline">Why InfoCluster-xi?</h3>
                         <p className="service-desc" style={{ maxWidth: '600px', margin: '0 auto' }}>
                             We understand the struggle. As a student, you need a strong portfolio and resume, but professional services can be expensive.
                         </p>
@@ -266,7 +266,7 @@ const App = () => {
                             <span style={{ display: 'none' }}>LinkedIn</span>
                         </a>
                     </div>
-                    <p>&copy; {new Date().getFullYear()} Unparalleled Scholar. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} InfoCluster-xi. All rights reserved.</p>
                     <p style={{ fontSize: '0.9rem', marginTop: '0.5rem' }}>Empowering students with affordable digital solutions.</p>
                 </div>
             </footer>

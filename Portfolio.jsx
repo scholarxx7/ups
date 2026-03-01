@@ -53,8 +53,8 @@ const Portfolio = () => {
             <nav className="navbar glass-nav">
                 <div className="container nav-content">
                     <Link to="/" className="logo">
-                        <img src={logo} alt="Unparalleled Scholar Logo" className="logo-img" />
-                        Unparalleled Scholar
+                        <img src={logo} alt="InfoCluster-xi Logo" className="logo-img" />
+                        InfoCluster-xi
                     </Link>
                     <div className="nav-links">
                         <Link to="/" className="btn-glass" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', padding: '0.5rem 1rem' }}>
@@ -112,7 +112,7 @@ const Portfolio = () => {
                             <span style={{ display: 'none' }}>LinkedIn</span>
                         </a>
                     </div>
-                    <p>&copy; {new Date().getFullYear()} Unparalleled Scholar. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} InfoCluster-xi. All rights reserved.</p>
                 </div>
             </footer>
         </div>
@@ -120,3 +120,4 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
