@@ -139,7 +139,7 @@ const Home = () => {
             <section id="home" className="hero">
                 <div className="container hero-content">
                     <div className="hero-text">
-                        <h1>Empowering Students with <span className="text-gradient">Digital Excellence</span></h1>
+                        <h1>Empowering Freelancers with <span className="text-gradient">Digital Excellence</span></h1>
                         <p>
                             We bridge the gap between academic potential and professional presentation. From building your first portfolio website to crafting the perfect resume, we provide affordable, top-tier digital services.
                         </p>
@@ -187,12 +187,12 @@ const Home = () => {
 
                     <div className="about-grid">
                         <div className="glass p-8">
-                            <h3 className="service-title">For Students, By Experts</h3>
+                            <h3 className="service-title">For Students and Freelancers, By Experts</h3>
                             <p className="service-desc mb-4">
-                                Lot of students face a common problem: "How do I build a website?" or "What should I add to my resume?"
+                                Lot of newcomers face a common problem: "How do I build a website?" or "What should I add to my resume?"
                             </p>
                             <p className="service-desc mb-4">
-                                We leverage the latest tech stack to provide top-tier services at student-friendly rates. We are here to help you navigate the digital landscape without breaking the bank.
+                                We leverage the latest tech stack to provide top-tier services at friendly rates. We are here to help you navigate the digital landscape without breaking the bank.
                             </p>
                             <div className="feature-list">
                                 <div className="feature-item">
@@ -352,7 +352,7 @@ const Home = () => {
                         </a>
                     </div>
                     <p>&copy; {new Date().getFullYear()} InfoCluster-xi. All rights reserved.</p>
-                    <p style={{ fontSize: '0.9rem', marginTop: '0.5rem' }}>Empowering students with affordable digital solutions.</p>
+                    <p style={{ fontSize: '0.9rem', marginTop: '0.5rem' }}>Empowering freelancers and newcomers with affordable digital solutions.</p>
                 </div>
             </footer>
         </div>
